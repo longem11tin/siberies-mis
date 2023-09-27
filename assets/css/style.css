@@ -1838,3 +1838,26 @@ section {
     padding-top: 4px;
   }
 }
+
+/* Dien thoai */
+
+@media (max-width: 768px) {
+  #about .img-about img {
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+  }
+
+  #services img {
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+  }
+
+  #porfolio .img-fluid {
+    
+  }
+}
+
+
+
